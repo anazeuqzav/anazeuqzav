@@ -6,7 +6,7 @@ I'm a **Multiplatform Application Development** student with a background in **P
 
 - 🎓 Currently studying: **Multiplatform Application Development**.
 - 🧠 Previously studied: **Psychology** and worked in **Neuroscience research**.
-- 🌱 I'm interested in learning more about: **Software development** in areas related to, **computational neuroscience**, and **artificial intelligence**.
+- 🌱 I'm interested in learning more about: **Software development** in areas related to **computational neuroscience** and **artificial intelligence** but I'm also open to exploring a wide range of technology fields.
 - 💬 I enjoy discussing: **Cognitive psychology**, **computational neuroscience** or any topic really—I'm open to learning about anything new!
 - ⚡ Fun facts: I'm a creative person who loves painting with watercolors and pastels 🎨, perfect for relaxing after long days of coding.
 
