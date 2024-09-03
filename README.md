@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ana
 
-<!--
-**anazeuqzav/anazeuqzav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Multiplatform Application Development** student with a background in **Psychology** and experience in **Neuroscience research**. I'm passionate about exploring how technology can integrate with behavioral science and brain research to create innovative applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently studying: **Multiplatform Application Development**.
+- 🧠 Previously studied: **Psychology** and worked in **Neuroscience research**.
+- 🌱 I'm interested in learning more about: **Software development** in areas related to, **computational neuroscience**, and **artificial intelligence**.
+- 💬 I enjoy discussing: **Cognitive psychology**, **computational neuroscience** or any topic really—I'm open to learning about anything new!
+- ⚡ Fun facts: I'm a creative person who loves painting with watercolors and pastels 🎨, perfect for relaxing after long days of coding.
+
+## 🛠️ Skills and Tools
+
+- **Programming languages:** Java, SQL
+- **Mobile development:** Android (Java/Kotlin)
+- **Front-End:** HTML, CSS, JavaScript
+- **Databases:** MySQL, DBeaver
+- **Data analysis tools:** R, SPSS
+- **Development tools:** Git, GitHub, Visual Studio Code, Android Studio, Neatbeans
+
+## 📊 GitHub Stats
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anazeuqzav&theme=dracula)
+
+
+## 📫 Contact Me
+
+- Email: [anazeuqzav@gmail.com](mailto:anazeuqzav@gmail.com)
+- LinkedIn: [Ana on LinkedIn](https://linkedin.com/in/ana)
+
+
+## 🌐 Find Me Online
+
+- [Portfolio](https://anazeuqzav.github.io/portfolio/) 
+
+<!--## 🎨 Featured Projects
+
+- [NeuroMind](https://github.com/ana/neuro-mind): A mobile app designed to enhance mental health through cognitive exercises based on neuroscience.
+- [CerebroTech](https://github.com/ana/cerebro-tech): A web platform using machine learning to analyze real-time brain activity patterns.-->
+
+## 🎉 Thank You for Visiting My Profile!
+
+If you have any questions, want to collaborate on a project or just want to chat about programming or neuroscience, feel free to reach out!
