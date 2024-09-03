@@ -1,3 +1,5 @@
+![Banner](https://github.com/anazeuqzav/anazeuqzav/blob/main/banner.png)
+
 # Hi there! 👋 I'm Ana
 
 I'm a **Multiplatform Application Development** student with a background in **Psychology** and experience in **Neuroscience research**. I'm passionate about exploring how technology can integrate with behavioral science and brain research to create innovative applications.
