@@ -28,7 +28,7 @@ I'm a **Multiplatform Application Development** student with a background in **P
 ## 📫 Contact Me
 
 - Email: [anazeuqzav@gmail.com](mailto:anazeuqzav@gmail.com)
-- LinkedIn: [Ana on LinkedIn](https://linkedin.com/in/ana)
+- LinkedIn: [Ana on LinkedIn](https://www.linkedin.com/in/ana-v%C3%A1zquez-de-%C3%A1gredos/)
 
 
 ## 🌐 Find Me Online
