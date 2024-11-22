@@ -30,16 +30,9 @@ I'm a **Multiplatform Application Development** student with a background in **P
 
 - Email: [anazeuqzav@gmail.com](mailto:anazeuqzav@gmail.com)
 - LinkedIn: [Ana on LinkedIn](https://www.linkedin.com/in/ana-v%C3%A1zquez-de-%C3%A1gredos/)
+- ORCID: [Ana on ORCID](https://orcid.org/0000-0002-4953-3161)
+- Portfolio: [Portfolio](https://anazeuqzav.github.io/portfolio/)
 
-
-## 🌐 Find Me Online
-
-- [Portfolio](https://anazeuqzav.github.io/portfolio/) 
-
-<!--## 🎨 Featured Projects
-
-- [NeuroMind](https://github.com/ana/neuro-mind): A mobile app designed to enhance mental health through cognitive exercises based on neuroscience.
-- [CerebroTech](https://github.com/ana/cerebro-tech): A web platform using machine learning to analyze real-time brain activity patterns.-->
 
 ## 🎉 Thank You for Visiting My Profile!
 
