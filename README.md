@@ -11,19 +11,13 @@ I'm a **Multiplatform Application Development** student with a background in **P
 
 ## 🛠️ Skills and Tools
 
-- **Programming languages:** ![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=flat-square&logo=java&logoColor=black)
+- **Programming languages:** ![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=flat-square&logo=java&logoColor=black) | [JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - **Mobile development:** ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5?style=flat-square&logo=kotlin&logoColor=white)
 
-- **Front-End:** ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-- **Databases:** MySQL
+- **Front-End:** ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+- **Databases:** MySQL | MongoDB
 - **Data analysis tools:** R, SPSS, JAMOVI, JASP
 - **Development tools:** ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white) IntelliJ, Visual Studio Code, Android Studio, Neatbeans
-
-## 📊 GitHub Stats
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anazeuqzav&theme=dracula)
-
 
 ## 📫 Contact Me
 
