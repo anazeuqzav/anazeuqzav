@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ana
 
-I'm a **Multiplatform Application Development** student with a background in **Psychology** and experience in **Neuroscience research**.
+I'm a **Software developer** with a background in **Psychology** and experience in **Neuroscience research**.
 
 ## 🚀 About Me
 
