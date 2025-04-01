@@ -11,23 +11,17 @@ I'm a **Multiplatform Application Development** student with a background in **P
 
 ## 🛠️ Skills and Tools
 
-- **Programming languages:**  
-  ![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=flat-square&logo=java&logoColor=black)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+- **Programming languages:**  ![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=flat-square&logo=java&logoColor=black)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 
-- **Mobile development:**  
-  ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5?style=flat-square&logo=kotlin&logoColor=white)  
+- **Mobile development:**  ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5?style=flat-square&logo=kotlin&logoColor=white)  
 
-- **Front-End:**  
-  ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)  ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)  
+- **Front-End:**  ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)  ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)  
 
-- **Databases:**  
-  ![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=flat-square&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)  
+- **Databases:**  ![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=flat-square&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)  
 
-- **Data analysis tools:**  
-  ![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=r&logoColor=white)  SPSS, JAMOVI, JASP  
+- **Data analysis tools:**  ![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=r&logoColor=white)  SPSS, JAMOVI, JASP  
 
-- **Development tools:**  
-  ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)  ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=flat-square&logo=intellij-idea&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat-square&logo=android-studio&logoColor=white)  ![NetBeans](https://img.shields.io/badge/NetBeans-%230072BC?style=flat-square&logo=apachenetbeanside&logoColor=white)  
+- **Development tools:**  ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)  ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=flat-square&logo=intellij-idea&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat-square&logo=android-studio&logoColor=white)  ![NetBeans](https://img.shields.io/badge/NetBeans-%230072BC?style=flat-square&logo=apachenetbeanside&logoColor=white)  
 
 
 ## 📫 Contact Me
